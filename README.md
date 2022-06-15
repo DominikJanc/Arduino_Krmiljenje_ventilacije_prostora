@@ -56,11 +56,11 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 
 3. Nastavljanje ročnega ali avtomatičnega ventilatorja
-  * Ko vklopimo ventilator imamo opcijo med Ročno in Avtomatsko nastavljanje temparature. Z uporabno stikala lahko premikamo levo in desno, kjer izbiramo med ročno in avtomatsko nastavitev.
+   * Ko vklopimo ventilator imamo opcijo med Ročno in Avtomatsko nastavljanje temparature. Z uporabno stikala lahko premikamo levo in desno, kjer izbiramo med ročno in avtomatsko nastavitev.
 
 4. Nastavljanje temparature
- * Če sveti rdeča LED pomeni, da smo izbrali ROČNO nastavitev, katero upraljamo z potenciometrom in s tem nastavljamo moč motorja in temparaturo,
- * če sveti zelena LED pomeni, da smo izbralni AVTOMATSKO nastavitev, katera se samodejno upravlja z uporabo termistorja, kjer glede na temparaturo nastavlja moč ventilatorja in temparaturo.
+  * Če sveti rdeča LED pomeni, da smo izbrali ROČNO nastavitev, katero upraljamo z potenciometrom in s tem nastavljamo moč motorja in temparaturo,
+  * če sveti zelena LED pomeni, da smo izbralni AVTOMATSKO nastavitev, katera se samodejno upravlja z uporabo termistorja, kjer glede na temparaturo nastavlja moč ventilatorja in temparaturo.
 
 
 5. Fritzing skematika in breadboard 
@@ -74,11 +74,11 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 https://user-images.githubusercontent.com/83011636/173894519-7c3810bd-5cf2-4146-b037-c60caeef03f3.mp4
 
 7. Komentarji, pripombe in izoljšava
- * Termistor ni najbolj natančen saj je najbolj osnoven a za uporabo je delujoč,
- * Najbolje bi bilo, če bi dodali LCD zaslon, kjer bi se izpisovala temparatura in katero nastavitev smo izbrali.
+  * Termistor ni najbolj natančen saj je najbolj osnoven a za uporabo je delujoč,
+  * Najbolje bi bilo, če bi dodali LCD zaslon, kjer bi se izpisovala temparatura in katero nastavitev smo izbrali.
 
 8. Avtorja in mentor
-* Dominik Janc
-* Mark Uranič
-* Mentor: Vasja Markič
+  * Dominik Janc
+  * Mark Uranič
+  * Mentor: Vasja Markič
          
