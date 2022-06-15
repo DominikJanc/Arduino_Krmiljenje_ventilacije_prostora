@@ -25,6 +25,11 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 1. Priredbeni seznam
 
+|               |               | Vhodi        |               |
+| ------------- | ------------- | -------------| ------------- |
+| Content Cell  | Content Cell  |              |               |
+| Content Cell  | Content Cell  |              |               |
+
 2. Vžig ventilatorja
 
 3. Nastavljanje ročnega ali avtomatičnega ventilatorja
