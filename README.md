@@ -43,5 +43,5 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 7. Komentarji, pripombe in izoljšava
  * Termistor ni najbolj natančen saj je najbolj osnoven a za uporabo je delujoč,
  * Najbolje bi bilo, če bi dodali LCD zaslon, kjer bi se izpisovala temparatura in katero nastavitev smo izbrali.
-```
+
          
