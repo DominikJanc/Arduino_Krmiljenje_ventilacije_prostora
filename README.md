@@ -6,7 +6,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 ## Kosovnica
 
- ```javascript
+ javascript
  * 1x Arduino UNO
  * 1x Bread board
  * 1x rdeča LED
@@ -20,7 +20,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
  * 1x motor
  * 1x NPN tranzistor
  * 1x dioda
- ```
+ 
 
 ## Uporaba
 
