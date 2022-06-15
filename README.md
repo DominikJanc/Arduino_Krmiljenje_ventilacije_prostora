@@ -56,7 +56,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 
 3. Nastavljanje ročnega ali avtomatičnega ventilatorja
-   * Ko vklopimo ventilator imamo opcijo med Ročno in Avtomatsko nastavljanje temparature. Z uporabno stikala lahko premikamo levo in desno, kjer izbiramo med ročno in avtomatsko nastavitev.
+  * Ko vklopimo ventilator imamo opcijo med Ročno in Avtomatsko nastavljanje temparature. Z uporabno stikala lahko premikamo levo in desno, kjer izbiramo med ročno in avtomatsko nastavitev.
 
 4. Nastavljanje temparature
   * Če sveti rdeča LED pomeni, da smo izbrali ROČNO nastavitev, katero upraljamo z potenciometrom in s tem nastavljamo moč motorja in temparaturo,
