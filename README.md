@@ -25,6 +25,8 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 1. Priredbeni seznam
 
+| Vhodi |          |                   |               |               |
+| ---------------- | ----------------- | ------------- | ------------- |
 | Oznaka v načrtu  | Naslovna operanda | Vrsta kontakta| Opis          |
 | ---------------- | ----------------- | ------------- | ------------- |
 | Stikalo1         | X1                | N.O.          | Prižge se in ugasne              |
