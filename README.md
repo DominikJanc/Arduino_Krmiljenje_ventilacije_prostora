@@ -24,7 +24,6 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 ## Uporaba
 
-```javascript
 1. Priredbeni seznam
 
 2. Vžig ventilatorja
@@ -35,6 +34,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 4. Nastavljanje temparature
 * Če sveti rdeča LED pomeni, da smo izbrali ROČNO nastavitev, katero upraljamo z potenciometrom in s tem nastavljamo moč motorja in temparaturo,
 * če sveti zelena LED pomeni, da smo izbralni AVTOMATSKO nastavitev, katera se samodejno upravlja z uporabo termistorja, kjer glede na temparaturo nastavlja moč ventilatorja in temparaturo.
+
 
 5. Fritzing skematika in breadboard 
 
