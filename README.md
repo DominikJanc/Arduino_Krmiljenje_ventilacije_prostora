@@ -25,7 +25,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 1. Priredbeni seznam
 
-|                  |             # Vhodi|               |                |
+|                  |              Vhodi|               |                |
 | ---------------- | ----------------- | ------------- | ------------- |
 | Oznaka v načrtu  | Naslovna operanda | Vrsta kontakta| Opis          |
 | ---------------- | ----------------- | ------------- | ------------- |
@@ -34,7 +34,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 | Termistor        | X3                | / Analogno    | Določa vrtenje motorja glede na temp.              |
 | Potenciometer    | X4                | / Analogno    | Ročno upravljanje hitrosti              |
 | ---------------- | ----------------- | ------------- | ------------- |
-|                               # Izhodi                               |
+|                  |      Izhodi       |               |               |
 | ---------------- | ----------------- | ------------- | ------------- |
 | Oznaka v načrtu  | Naslov operanda   | Aktiven pri   | Pomen         |
 
