@@ -34,7 +34,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 | Stikalo2         | X2                | N.O.          | Menja med avtomatsko in ročno              |
 | Termistor        | X3                | / Analogno    | Določa vrtenje motorja glede na temp.              |
 | Potenciometer    | X4                | / Analogno    | Ročno upravljanje hitrosti              |
-| ---------------- | ----------------- | ------------- | ------------- |
+
 
 1.2 Izhodi
 
@@ -44,7 +44,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 | Motor            | Y1                | 1             | Motor se vrti |
 | LED 1            | Y2                | 1             | Rdeča sveti, pomeni ročno             |
 | LED 2            | Y3                | 1             | Zelena sveti, pomeni avtomatsko             |
-| ---------------- | ----------------- | ------------- | ------------- |
+
 
 
 2. Vžig ventilatorja
@@ -53,7 +53,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 | ---------------- | ----------------- |
 | On               | Motor je prižgan in se vrti glede na nastavitev|
 | Off              | Motor je ugasjen in čaka na prižig              |
-| ---------------- | ----------------- | ------------- | ------------- |
+
 
 3. Nastavljanje ročnega ali avtomatičnega ventilatorja
   * Ko vklopimo ventilator imamo opcijo med Ročno in Avtomatsko nastavljanje temparature. Z uporabno stikala lahko premikamo levo in desno, kjer izbiramo med ročno in avtomatsko nastavitev.
