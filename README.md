@@ -28,7 +28,6 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 1.1 Vhodi
 
 
-| ---------------- | ----------------- | ------------- | ------------- |
 | Oznaka v načrtu  | Naslovna operanda | Vrsta kontakta| Opis          |
 | ---------------- | ----------------- | ------------- | ------------- |
 | Stikalo1         | X1                | N.O.          | Prižge se in ugasne              |
@@ -40,7 +39,6 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 1.2 Izhodi
 
 
-| ---------------- | ----------------- | ------------- | ------------- |
 | Oznaka v načrtu  | Naslovna operanda | Aktiven pri   | Pomen         |
 | ---------------- | ----------------- | ------------- | ------------- |
 | Motor            | Y1                | 1             | Motor se vrti |
@@ -51,7 +49,6 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 2. Vžig ventilatorja
 
-| ---------------- | ----------------- |
 | Stikalo          |                   |
 | ---------------- | ----------------- |
 | On               | Motor je prižgan in se vrti glede na nastavitev|
