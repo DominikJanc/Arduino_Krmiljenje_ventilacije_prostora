@@ -25,14 +25,19 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 1. Priredbeni seznam
 
-|                                  Vhodi                               |
+|                                # Vhodi                               |
 | ---------------- | ----------------- | ------------- | ------------- |
-| Oznaka v načrtu  | Naslovna operacija| Vrsta kontakta| Opis          |
+| Oznaka v načrtu  | Naslovna operanda | Vrsta kontakta| Opis          |
 | ---------------- | ----------------- | ------------- | ------------- |
 | Stikalo1         | X1                | N.O.          | Prižge se in ugasne              |
 | Stikalo2         | X2                | N.O.          | Menja med avtomatsko in ročno              |
 | Termistor        | X3                | / Analogno    | Določa vrtenje motorja glede na temp.              |
 | Potenciometer    | X4                | / Analogno    | Ročno upravljanje hitrosti              |
+| ---------------- | ----------------- | ------------- | ------------- |
+|                               # Izhodi                               |
+| ---------------- | ----------------- | ------------- | ------------- |
+| Oznaka v načrtu  | Naslov operanda   | Aktiven pri   | Pomen         |
+
 
 2. Vžig ventilatorja
 
